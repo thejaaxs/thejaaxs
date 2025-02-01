@@ -17,9 +17,9 @@
   <a href="https://www.linkedin.com/in/thejaaxs" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thejas-linkedin" height="40" width="50" />
   </a>
-  <a href="https://thejas.dev" target="blank">
+<!--   <a href="https://thejas.dev" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="thejas-portfolio" height="50" width="50" />
-  </a>
+  </a> -->
 </p>
 
 ---
