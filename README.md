@@ -3,7 +3,7 @@
 <h3 align="center">🌱 A Passionate Software Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thejaaxs&label=Profile%20views&color=0e75b6&style=flat" alt="thejaaxsS" />
+  <img src="https://komarev.com/ghpvc/?username=thejaaxsS&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
 
 ---
