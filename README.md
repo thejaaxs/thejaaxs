@@ -18,7 +18,7 @@
 ---
 
 ### 🌍 Connect with Me
-<div align="center">/
+<div align="center">
 <!--   <a href="https://github.com/thejaaxs target="_blank">
     <img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -38,6 +38,9 @@
   <a href="https://www.linkedin.com/in/thejaaxs" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thejas-linkedin" height="40" width="50" />
   </a>
+    <a href="https://github.com/thejaaxs" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thejaaxs GitHub" height="40" width="50" />
+</a>
 <!--   <a href="https://thejas.dev" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="thejas-portfolio" height="50" width="50" />
   </a> -->
