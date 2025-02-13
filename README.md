@@ -18,8 +18,8 @@
 ---
 
 ### 🌍 Connect with Me
-<div align="center">
-  <a href="https://github.com/thejaaxs target="_blank">
+<div align="center">/
+<!--   <a href="https://github.com/thejaaxs target="_blank">
     <img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/thejaaxs" target="_blank">
@@ -27,10 +27,21 @@
   </a>
   <a href="https://twitter.com/thejaaxs" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  </a> -->
 <!--   <a href="https://thejaaxs.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="40" width="40"/>
   </a> -->
+  <p align="center">
+  <a href="https://twitter.com/thejaaxs" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thejaaxs" height="40" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/thejaaxs" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thejas-linkedin" height="40" width="50" />
+  </a>
+<!--   <a href="https://thejas.dev" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="thejas-portfolio" height="50" width="50" />
+  </a> -->
+</p>
 </div>
 
 ---
