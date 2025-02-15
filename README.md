@@ -85,6 +85,6 @@
 ### 📈 GitHub & LeetCode Stats 
 
 
-<h2 align="center">🚀 LeetCode & GitHub Stats Coming Soon! 🚀</h2>
+<h2 align="center">🚀 LeetCode & GitHub Stats Coming Soon ! 🚀</h2>
 
 </p>
