@@ -54,7 +54,6 @@
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/> -->
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/> -->
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="40" height="40"/> -->
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/>
@@ -62,6 +61,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> -->
   <p align="center">
+    <a href="https://www.pythonprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
   </a>
