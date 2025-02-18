@@ -54,7 +54,7 @@
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/> -->
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/> -->
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="40" height="40"/> -->
-<!--   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/> -->
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/>
