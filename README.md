@@ -9,30 +9,30 @@
 ---
 
 ### 🚀 About Me
-- 🌐 Passionate about **Web Development, AI, and Software Engineering**.
-- 🎯 Constantly learning and improving.
-- 🚀 Exploring **AI Development, Full Stack Development & ML Research**.
-- 💡 Love hands-on experimentation and tackling new challenges.
-- 🤝 Open to **collaborations** on exciting projects!
+- 🌐 Passionate about **Web Development, AI, Software Engineering**
+- 🎯 Constantly learning & expanding my skill set
+- 🚀 Currently exploring **AI Development, Full Stack Architecture & ML Research**
+- 💡 Enjoy hands-on experimentation and solving complex problems
+- 🤝 Open to collaborations on innovative projects
 
 ---
 
 ### 🌍 Connect with Me
-<div align="center">
-  <a href="https://twitter.com/thejaaxs" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thejaaxs Twitter" height="40" width="50" />
+<p align="center">
+  <a href="https://twitter.com/thejaaxs" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thejaaxs" height="40" width="50" />
   </a>
-  <a href="https://www.linkedin.com/in/thejaaxs" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thejaaxs LinkedIn" height="40" width="50" />
+  <a href="https://www.linkedin.com/in/thejaaxs" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thejas-linkedin" height="40" width="50" />
   </a>
   <a href="https://github.com/thejaaxs" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thejaaxs GitHub" height="40" width="50" />
   </a>
-</div>
+</p>
 
 ---
 
-### ⚡ Technologies & Tools
+### ⚡ Tech Stack
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
@@ -40,23 +40,30 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
   </a>
 </p>
 
 ---
 
-### 📈 GitHub & LeetCode Stats
+### 📈 Development Activity
 
-<h2 align="center">🚀 LeetCode & GitHub Stats Coming Soon! 🚀</h2>
+<!-- GitHub Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&theme=dark"/>
+</div>
 
----
-
-⭐️ **Inspired by** [@rahuldkjain](https://github.com/rahuldkjain)  
+<!-- LeetCode Stats -->
+<h2 align="center">🔥 LeetCode Progress</h2>
+<p align="center">
+  <!-- Insert LeetCode stats here -->
+  <img src="https://leetcard.jacoblin.cool/thejaaxs?theme=dark&font=ABeeZee" alt="LeetCode Stats"/>
+</p>
