@@ -53,17 +53,8 @@
 
 ---
 
-### 📈 Development Activity
+### 📈 GitHub & LeetCode Stats
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&theme=dark"/>
-</div>
+<h2 align="center">🚀 LeetCode & GitHub Stats Coming Soon! 🚀</h2>
 
-<!-- LeetCode Stats -->
-<h2 align="center">🔥 LeetCode Progress</h2>
-<p align="center">
-  <!-- Insert LeetCode stats here -->
-  <img src="https://leetcard.jacoblin.cool/thejaaxs?theme=dark&font=ABeeZee" alt="LeetCode Stats"/>
-</p>
+---
