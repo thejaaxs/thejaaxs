@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 🌐 Passionate about **Web Development, AI, Software Engineering**.
 - 🎯 Constantly learning !
-- 🚀 Exploring **AI development, Full Stack Development**.
+- 🚀 Exploring **AI Development, Full Stack Development & ML Research**.
 - 💡 Love hands-on experimentation and tackling new challenges.
 - 🤝 Open to **collaborations** on exciting projects!
 
