@@ -14,7 +14,7 @@
 - 🚀 Currently exploring **AI Development, Full Stack Architecture & ML Research**
 - 💡 Enjoy hands-on experimentation and solving complex problems
 - 🤝 Open to collaborations on innovative projects
-
+- 
 ---
 
 ### 🌍 Connect with Me
