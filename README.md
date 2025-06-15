@@ -77,7 +77,8 @@
 
 | Contribution Streak | Languages & Tools |
 | ------------------- | ----------------- |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejaaxs&show_icons=true&locale=en&layout=compact" alt="thejaaxs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&locale=en" alt="thejaaxs" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-pranav&" alt="i-pranav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&" alt="thejaaxs" /></p>
 
 </div>
