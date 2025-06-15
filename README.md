@@ -75,10 +75,6 @@
 
 <div align="center">
 
-✨ I'm a curious builder who believes in **learning by doing**.  
-Whether it's contributing to personal projects, exploring new frameworks, or pushing code into the unknown —  
-you’ll always find me shipping ideas and leveling up 💻🚀.
-
 | Contribution Streak | Languages & Tools |
 | ------------------- | ----------------- |
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&locale=en" alt="thejaaxs" /></p>
