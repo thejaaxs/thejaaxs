@@ -63,6 +63,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&theme=dark" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&theme=dark" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaaxs&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
