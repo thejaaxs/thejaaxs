@@ -32,11 +32,11 @@
   </a>
 </p >
 
-    ---
+---
 
 ### 🧠 Tech Stack
 
-    < p align = "center" >
+< p align = "center" >
   < !--Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -57,11 +57,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p >
 
-    ---
+---
 
 ### 📊 GitHub Insights
 
-    < table >
+< table >
     <tr>
         <td colspan="2"><img width=100% src="https://github-profile-trophy.vercel.app/?username=thejaaxs&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
   </tr >
@@ -74,8 +74,8 @@
 <!-- 		<td><img src="https://streak-stats.demolab.com?user=thejaaxs&theme=nord&hide_border=true"></a></td> -->
 		<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thejaaxs&theme=nord_dark"></a></td>
 	</tr>
-	<!-- < tr >
+ <!-- < tr >
 		<td><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
 		<td><img src="https://wakatime.com/share/@savatar/f8a8bf1d-a5f6-45f5-94e9-a7fd08ad7783.svg"></a>			</td>
-	</tr > -->
+</tr > -->
 	</table >
