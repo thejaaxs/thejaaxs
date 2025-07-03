@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-    - 🌍 I'm deeply passionate about **Web Development**, **Artificial Intelligence**, and **Software Engineering**
-        - 🎯 Currently focused on ** AI Development **, ** Full Stack Architecture **, and ** ML Research **
-            - 💡 I love exploring new technologies and building real - world solutions
-                - 🤝 Open to exciting ** collaborations ** and challenging ** projects **
-                    - 📚 Always in learning mode & experimenting hands - on
+- 🌍 I'm deeply passionate about **Web Development**, **Artificial Intelligence**, and **Software Engineering**
+- 🎯 Currently focused on ** AI Development **, ** Full Stack Architecture **, and ** ML Research **
+- 💡 I love exploring new technologies and building real - world solutions
+- 🤝 Open to exciting ** collaborations ** and challenging ** projects **
+- 📚 Always in learning mode & experimenting hands - on
 
 ---
 
