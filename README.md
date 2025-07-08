@@ -8,7 +8,7 @@
 
 ---
  
-### 🚀 About Me
+### 🚀 About Me 
 
 - 🌍 I'm deeply passionate about **Web Development**, **Artificial Intelligence**, and **Software Engineering**
 - 🎯 Currently focused on **AI Development**, **Full Stack Architecture**, and **ML Research**
