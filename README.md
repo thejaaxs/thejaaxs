@@ -60,8 +60,7 @@
 ---
 
 ### 📊 GitHub Insights
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&locale=en" alt="thejaaxs" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&" alt="thejaaxs" /></p>
 <table align="center">
   <tr>
     <td colspan="2" align="center">
