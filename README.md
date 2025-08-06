@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Software+Engineer;Web+Developer;AI+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
-<img align="right" alt="coding" width="350" src="https://github.com/i-pranav/i-pranav/blob/main/programmer.gif">
+<img align="right" alt="coding" width="350" src="https://github.com/thejaaxs/thejaaxs/blob/main/programmer.gif">
 ---
  
 ### 🚀 About Me 
@@ -60,6 +60,7 @@
 ---
 
 ### 📊 GitHub Insights
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&locale=en" alt="thejaaxs" /></p>
 
 <table align="center">
   <tr>
