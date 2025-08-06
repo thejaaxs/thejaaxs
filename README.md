@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Software+Engineer;Web+Developer;AI+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
-<p align="left"> <a href="https://twitter.com/i_pranavmehta" target="blank"><img src="https://img.shields.io/twitter/follow/i_pranavmehta?logo=twitter&style=for-the-badge" alt="i_pranavmehta" /></a> </p>
+<img align="right" alt="coding" width="350" src="https://github.com/i-pranav/i-pranav/blob/main/programmer.gif">
 ---
  
 ### 🚀 About Me 
