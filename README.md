@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Thejas</h1>  
-      
+<h1 align="center">Hi 👋, I'm Thejas</h1>
+
 <div align="center">   
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Software+Engineer;Web+Developer;AI+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
-<img align="right" alt="coding" width="350" src="https://github.com/thejaaxs/thejaaxs/blob/main/programmer.gif">
+
+<img align="right" alt="coding" width="350" src="https://github.com/thejaaxs/thejaaxs/blob/main/programmer.gif" />
+
 ---
- 
-### 🚀 About Me 
+
+### 🚀 About Me
 
 - 🌍 I'm deeply passionate about **Web Development**, **Artificial Intelligence**, and **Software Engineering**
 - 🎯 Currently focused on **AI Development**, **Full Stack Architecture**, and **ML Research**
@@ -42,16 +44,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
+
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  
+
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  
+
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
@@ -59,22 +61,39 @@
 
 ---
 
-### 📊 GitHub Insights
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&" alt="thejaaxs" /></p>
+### 📊 GitHub Stats
+
 <table align="center">
   <tr>
-    <td colspan="2" align="center">
-      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=thejaaxs&hide_border=true&count_private=true&theme=nord&no-frame=true" />
+    <td align="center" colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=thejaaxs&theme=nord&no-frame=true&count_private=true&hide_border=true" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&theme=nord&count_private=true&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=thejaaxs&theme=nord&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaaxs&layout=compact&theme=nord&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaaxs&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center" colspan="2">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thejaaxs&theme=nord_dark" />
     </td>
   </tr>
 </table>
+
+---
+
+⭐️ *Inspired by developers all over GitHub — let’s build something amazing!*
