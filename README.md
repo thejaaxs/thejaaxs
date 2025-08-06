@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thejas</h1>
 <h3 align="center">Software Engineer | Web Developer | AI Enthusiast</h3>
 
-<img align="right" alt="profile" width="200" src="https://github.com/thejaaxs/thejaaxs/blob/main/profile.png" />
+<img align="right" alt="profile" width="200" src="https://github.com/thejaaxs/thejaaxs/blob/main/programmer.gif" />
 
 ### 🚀 About Me
 - 🌍 I'm deeply passionate about **Web Development**, **Artificial Intelligence**, and **Software Engineering**
