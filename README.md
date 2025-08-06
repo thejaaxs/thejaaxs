@@ -61,6 +61,7 @@
 
 ### 📊 GitHub Insights
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&" alt="thejaaxs" /></p>
+<td>><img src="https://streak-stats.demolab.com?user=thejaaxs&theme=nord&hide_border=true"></a></td>
 <table align="center">
   <tr>
     <td colspan="2" align="center">
