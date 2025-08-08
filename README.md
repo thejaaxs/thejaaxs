@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=thejaaxs&theme=nord&hide_border=true"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&theme=nord&hide_border=true"/>
     </td>
     <td align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thejaaxs&theme=nord_dark" />
