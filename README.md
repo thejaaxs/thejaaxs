@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 <h1 align="center">Hi 👋, I'm THEJAS</h1>
  
 <p align="center">
@@ -82,5 +81,10 @@
 </table>
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" height="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="250"/>
+</p>
 
 <p align="center">⭐️ <i>Motivated from all the developers on GitHub!</i> ⭐️</p>
