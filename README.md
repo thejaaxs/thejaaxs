@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm THEJAS</h1>
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Aspiring AI+Researcher;Aspiring LLMops Researcher;Aspiring Full+Stack+Web+Dev;Aspiring Robotics+and+IoT;Aspiring Cloud+Developer" alt="Typing SVG" />
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Aspiring+AI+Researcher;Aspiring+LLMops+Researcher;Aspiring+Full+Stack+Web+Dev;Aspiring+Robotics+and+IoT;Aspiring+Cloud+Developer)
 </p>
 
 ---
