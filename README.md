@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm THEJAS</h1> 
+<h1 align="center">Hi 👋, I'm THEJAS</h1>  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=AI+Research;LLMOps+Research;Full+Stack+Web+Development;Robotics+%26+IoT;Cloud+Engineering" alt="Typing SVG" />
