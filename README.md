@@ -16,7 +16,7 @@
 - 🤝 Open to exciting **collaborations** and challenging **projects**
 - 📚 Always in learning mode & experimenting hands-on
 
----
+--- 
 
 ### 🌐 Connect with Me
 
