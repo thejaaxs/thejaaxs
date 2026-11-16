@@ -123,12 +123,12 @@ My goal is to build real-world automation projects that demonstrate practical en
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaaxs&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -136,7 +136,7 @@ My goal is to build real-world automation projects that demonstrate practical en
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thejaaxs&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -144,7 +144,7 @@ My goal is to build real-world automation projects that demonstrate practical en
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaaxs&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
