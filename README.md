@@ -123,21 +123,21 @@ My goal is to build real-world automation projects that demonstrate practical en
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=thejaaxs&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejaaxs&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaaxs&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaaxs&layout=compact&theme=tokyonight&hide_border=true" height="165" /> -->
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thejaaxs&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 
@@ -186,9 +186,9 @@ console.log("Always Learning. Always Building. 🚀");
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn](https://in.linkedin.com/in/thejaaxs)
-- 🌐 Portfolio: [Your Portfolio](https://github.com/thejaaxs)
-- 📧 Email: [your-email@example.com](mailto:letsmailthejasganiga@example.com)
+- 💼 LinkedIn: (https://in.linkedin.com/in/thejaaxs)
+- 🌐 Portfolio: (https://github.com/thejaaxs)
+- 📧 Email: (mailto:letsmailthejasganiga@example.com)
 
 ---
 
