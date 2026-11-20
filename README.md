@@ -1,5 +1,5 @@
 
-# Hey there! 👋 I'm Thejas 
+# Hey there! 👋 I'm Thejas
 
 ### 💻 Software Engineer | Aspiring SDET | Automation Enthusiast
 
